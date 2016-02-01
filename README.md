@@ -15,15 +15,15 @@ DBMS assignment 1
 
 Format of files:
 1.
-#number of tables
+number of tables
 name of table1
-#number of attribute in table1
+number of attribute in table1
 ( attribute1,type,isKey)
 ( attribute2,type,isKey)
 .
 .
 .
-#number of records in table1
+number of records in table1
 record1
 record2
 .
@@ -33,13 +33,13 @@ name of the table 2
 .
 .
 .
-#number of key relations
+number of key relations
 relation1
 relation2
 .
 .
 2.
-#number of attributes in the subschema
+number of attributes in the subschema
 (table name,attribute)
 .
 .
